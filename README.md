@@ -16,6 +16,18 @@ This BMI (Body Mass Index) Calculator is a simple web application implemented us
 https://bmicalculatorimage.netlify.app/
 
 
+## Screenshot
+
+![UnderWeight](https://github.com/Muhammedrazikkm/BMI-CALCULATOR/blob/master/Screenshot%202023-12-29%20181937.png?raw=true)
+
+![Obesity](https://github.com/Muhammedrazikkm/BMI-CALCULATOR/blob/master/Screenshot%202023-12-29%20183421.png?raw=true)
+
+![OverWeight](https://github.com/Muhammedrazikkm/BMI-CALCULATOR/blob/master/Screenshot%202023-12-29%20183458.png?raw=true)
+
+![Healthy](https://github.com/Muhammedrazikkm/BMI-CALCULATOR/blob/master/Screenshot%202023-12-29%20183534.png?raw=true)
+
+
+
 ## How to Use
 
 1)Clone the repository to your local machine:
